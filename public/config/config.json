@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x63345a3f702d6ae430919875804cd7a6eaf5eb65",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x1ca00677b3d419e6e91fef8be59dd9e3520ee282",
+  "CONTRACT_ADDRESS": "0xa953Bbf4E09955f1fF7a1D0aeE772c8df18a6861",
+  "SCAN_LINK": "https://polygonscan.com/address/0xa953bbf4e09955f1ff7a1d0aee772c8df18a6861",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -9,8 +9,8 @@
   "NFT_NAME": "Gangsta Crypto",
   "SYMBOL": "GSNFT",
   "MAX_SUPPLY": 4444,
-  "WEI_COST": 30000000000000000000,
-  "DISPLAY_COST": 60,
+  "WEI_COST": 40000000000000000000,
+  "DISPLAY_COST": 40,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/gagstacrypto",

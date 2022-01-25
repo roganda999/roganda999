@@ -9,10 +9,10 @@
   "NFT_NAME": "Gangsta Crypto",
   "SYMBOL": "GSNFT",
   "MAX_SUPPLY": 4444,
-  "WEI_COST": 40000000000000000,
-  "DISPLAY_COST": 0.04,
-  "GAS_LIMIT": 30000000,
+  "WEI_COST": 60000000000000000,
+  "DISPLAY_COST": 0.06,
+  "GAS_LIMIT": 300000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/gangsta-crypto",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/gangsta-crypto-v2",
   "SHOW_BACKGROUND": true
 }

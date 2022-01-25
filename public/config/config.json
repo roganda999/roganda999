@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xfbb7f201E1D107a692E4E2621539Db70A85FabD0",
-  "SCAN_LINK": "https://polygonscan.com/address/0xfbb7f201E1D107a692E4E2621539Db70A85FabD0",
+  "CONTRACT_ADDRESS": "0x5E021a134C1C37FC131CBF6D6771f26ad0358DC5",
+  "SCAN_LINK": "https://polygonscan.com/address/0x5E021a134C1C37FC131CBF6D6771f26ad0358DC5",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 4444,
   "WEI_COST": 40000000000000000,
   "DISPLAY_COST": 0.04,
-  "GAS_LIMIT": 28500,
+  "GAS_LIMIT": 30000000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/gangsta-crypto",
   "SHOW_BACKGROUND": true
